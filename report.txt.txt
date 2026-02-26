@@ -1,0 +1,7 @@
+Prove that github can be used to track any files(not only code)
+What you need to demonstrate is;
+  -Tracking changes in documents,
+  -Reverting to previous version,
+  -Comparing different version,
+  -Use github desktop (not command lines),
+  -Explain real office use case.
