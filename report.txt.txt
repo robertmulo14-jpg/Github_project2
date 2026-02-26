@@ -5,5 +5,5 @@ What you need to demonstrate is;
   -Comparing different version,
   -Use github desktop (not command lines),
   -Explain real office use case.
-
+what is VLIW 
 we also did a group work
